@@ -1,0 +1,25 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochekollie/flashcard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rochekollie/flashcard/issues"
+  },
+  "homepage": "https://github.com/rochekollie/flashcard#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
